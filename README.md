@@ -1,3 +1,8 @@
+Author: Patricia Tirado
+Follow me on LinkedIn: 
+www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=patriciatirado29a
+'Forging better outcomes with uncommon sense".
+
 Network Monitor
 A simple proof of concept Python-based network monitor that periodically pings a target host and logs the status and latency to a .txt file. 
 Designed for simplicity and modularity.
@@ -53,8 +58,3 @@ TODOs:
 * Support structured logging (CSV or JSON)
 * Add alerting for repeated failures or high latency
 * Visualize logs with a simple dashboard
-
-Author
-Crafted by Patricia Tirado
-https://www.linkedin.com/in/patriciatirado29a/
-'Forging better outcomes with uncommon sense".
